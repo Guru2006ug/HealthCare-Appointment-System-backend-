@@ -1,3 +1,4 @@
+# HealthCare Appointment System
 This is the backend for the HealthCare Appointment System, enabling role-based appointment booking and health record management for Admins, Doctors, and Patients.
 
 Tech Stack:
